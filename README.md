@@ -8,13 +8,13 @@ $pkg install python python2 vim figlet curl
 $pkg install php
 $pip2 install lolcat
 $pkg install git
-$git clone https://github.com/TUANB4DUT/TOOLSINSTALLERv3
+$git clone https://github.com/Farhnz/Han
 
 ```MENJALANKANNYA```
 
 $cd TOOLSINSTALLERv3
-$chmod +x TUANB4DUT.sh
-$sh TUANB4DUT.sh
+$chmod +x Han.sh
+$sh Han.sh
 
-TUAN B4DUT
-INDONESIAN TERMUX ASSOCIATION
+Han.
+UwUGanG
